@@ -1,4 +1,4 @@
-
+The Accelearted response Blue
 > Using single use cases to verify a solid foundation for initial success and definition.
 
 ## Source and intended use

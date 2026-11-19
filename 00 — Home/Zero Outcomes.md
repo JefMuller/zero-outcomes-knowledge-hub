@@ -67,4 +67,4 @@ Review each blueprint against these questions:
 - Who owns the next action?
     
 
-See [[Overview]] for workspace structure, working principles, and maturity definitions.
+See [[00 — Home/Overview]] for workspace structure, working principles, and maturity definitions.

@@ -78,7 +78,7 @@ Open decisions: initial service cohort; applicable releases and entitlements; op
 ## Navigation
 
 - [[Zero Outcomes]] — outcome portfolio
-- [[Overview]] — workspace principles and maturity definitions
+- [[00 — Home/Overview]] — workspace principles and maturity definitions
 - [[Accelerated Response — Decisions and Gaps]] — blueprint-specific open work
 
 Links to planned notes will resolve when those notes are created in the vault.

@@ -20,14 +20,14 @@ configuration instructions. Testing establishes what works in practice.
 
 ## Outcomes and blueprints
 
-| Zero outcome | Blueprint |
-|---|---|
-| Zero Service Outages | [[Accelerated Response/Overview|Accelerated Response]] |
-| Zero Touch Support | Accelerated Resolution |
-| Zero Touch Support | Proactive Deflection |
-| Zero Touch Support | Omnichannel Self-Service |
-| Zero Friction Change | Blueprint to be defined |
-| Zero Compliance Gaps | Data Foundations and Cryptographic Assets Compliance |
+| Zero outcome         | Blueprint                                            |     |
+| -------------------- | ---------------------------------------------------- | --- |
+| Zero Service Outages | [[Accelerated Response Blueprint]]                   |     |
+| Zero Touch Support   | Accelerated Resolution                               |     |
+| Zero Touch Support   | Proactive Deflection                                 |     |
+| Zero Touch Support   | Omnichannel Self-Service                             |     |
+| Zero Friction Change | Blueprint to be defined                              |     |
+| Zero Compliance Gaps | Data Foundations and Cryptographic Assets Compliance |     |
 
 Outcome names and blueprint groupings above are a working taxonomy
 to confirm with the respective owners.

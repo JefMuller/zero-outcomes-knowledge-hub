@@ -10,7 +10,7 @@ Its purpose is to bridge the gap between **strategic outcomes and technical exec
 
 The repository is maintained using **Obsidian**, version-controlled through **GitHub**, and intended to serve as a knowledge source for AI-assisted implementation guidance through tools such as Claude.
 
-![[Architecture.png]]
+![[06 — Templates/Architecture.png]]
 ## Vision
 
 **We are not changing the destination. We are changing the unit of execution.**
